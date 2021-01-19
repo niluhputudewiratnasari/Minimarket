@@ -1,0 +1,37 @@
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.exe
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.pdb
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.xml
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_Utama.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.Resources.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.vbproj.GenerateResource.Cache
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.exe
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.xml
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.pdb
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_Database.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\bin\Debug\alfathNET.dll
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataJenis.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataMerk.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataBarang.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataSatuan.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataJenis_Input.resources
+D:\KAMPUS\4. Visual Dasar\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.vbprojResolveAssemblyReference.cache
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.exe
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.xml
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.pdb
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.exe
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.pdb
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\bin\Debug\AplMinimart.xml
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\bin\Debug\alfathNET.dll
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.vbprojResolveAssemblyReference.cache
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataBarang.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_Database.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataJenis.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataJenis_Input.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataMerk.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataSatuan.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_Utama.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.Resources.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.vbproj.GenerateResource.Cache
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataBarang_Input.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataMerk_Input.resources
+E:\KAMPUS\Semester 5\5. Visual Lanjut\Lanjut\AplMinimart\AplMinimart\obj\x86\Debug\AplMinimart.frm_DataSatuan_Input.resources
